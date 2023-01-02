@@ -1,11 +1,3 @@
-## Process this with automake to create Makefile.in
-
-SUBDIRS = libogg
-
-docdir = $(datadir)/doc/$(PACKAGE)-$(VERSION)
-
-doc_DATA = framing.html index.html oggstream.html ogg-multiplex.html \
-	stream.png vorbisword2.png white-ogg.png white-xifish.png \
-	rfc3533.txt rfc5334.txt skeleton.html
-
-EXTRA_DIST = $(doc_DATA)
+version https://git-lfs.github.com/spec/v1
+oid sha256:e61bdd3de44a397ad9e89b7a73396d559dd2c46a07ee9d8acf72456fa8901121
+size 315

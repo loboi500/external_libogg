@@ -1,8 +1,3 @@
-# Default code reviewers picked from top 3 or more developers.
-# Please update this list if you find better candidates.
-# Used only by frameworks/av/media/libstagefright?
-lajos@google.com
-marcone@google.com
-wjia@google.com
-wonsik@google.com
-chz@google.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:833f44b1c87ae900e26f043a8234fce97381203b2221153a5374b0688cd8f129
+size 256
